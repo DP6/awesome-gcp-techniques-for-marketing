@@ -1,0 +1,1 @@
+# awesome-gcp-techniques-for-marketing
